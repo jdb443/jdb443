@@ -8,7 +8,7 @@ I am a Software Developer and Consultant who graduated from Columbia University 
 
 Check out my [coding portfolio!](https://jdb443.github.io)
 
-## 🎓 About Me
+## 🎓 Background
 
 Full-Stack Software Engineer with a Computer Science, Information Systems, and Finance background. Skilled at producing production and non-production code for automating tasks. Performance-focused, detail-oriented, and multifaceted Full-Stack Engineer offering progressive experience in Full-Stack web application architecture.
 

@@ -14,7 +14,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 
 ## 🌐 Connect with me
 
-### [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jbehar/)
+### [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jbehar/)
 
 # 💻 Tech Stack
 
@@ -23,7 +23,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 [![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
-[![React Native](https://img.shields.io/badge/-React%20Native-%23282C34?style=flat-square&logo=react)](https://reactnative.dev/)
+[![React Native](https://img.shields.io/badge/-React%20Native-%23282C34?style=for-the-badge&logo=react)](https://reactnative.dev/)
 [![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 [![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)](https://www.figma.com/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)

@@ -52,7 +52,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 </p>
 <p align="center">
     <a href="https://github.com/jdb443">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jdb443&theme=algolia" alt="Jon's GitHub Contribution"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jdb443&theme=react&border=52b3d9&background=0D1117" alt="Jon's GitHub Contribution"/>
     </a>
 </p>
 <a>

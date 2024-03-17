@@ -43,3 +43,20 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
 [![Drools](https://img.shields.io/badge/Drools-%23FF6347.svg?style=for-the-badge&logo=drools&logoColor=white)](https://www.drools.org/)
+
+<br/>
+<p align="center">
+    <a href="https://github.com/jdb443">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdb443&theme=algolia&border=52b3d9&background=0D1117" alt="Jon's GitHub streak"/>
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/jdb443">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jdb443&theme=algolia" alt="Jon's GitHub Contribution"/>
+    </a>
+</p>
+<a>
+    <a href="https://github.com/jdb443"><img alt="Jon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=jdb443&show_icons=true&count_private=true&theme=algolia&border_color=52b3d9&bg_color=0D1117&title_color=52b3d9&icon_color=52b3d9" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/jdb443"><img alt="Jon's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jdb443&langs_count=8&layout=compact&theme=react&border_color=52b3d9&bg_color=0D1117&title_color=52b3d9&icon_color=52b3d9" height="192px" width="49.5%"/></a>
+  <br/>
+</a>

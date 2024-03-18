@@ -70,7 +70,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Drools](https://img.shields.io/badge/Drools-%23FF6347.svg?style=for-the-badge&logo=drools&logoColor=white)](https://www.drools.org/)
 
 <!-- [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)] -->
-[![Visitor Count](https://profile-counter.glitch.me/jdb443/count.svg)]
+![Visitor Count](https://profile-counter.glitch.me/jdb443/count.svg)
 
 <br/>
 <p align="center">

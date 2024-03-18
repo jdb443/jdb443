@@ -71,7 +71,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 
 <!-- [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)] -->
 ![Visitor Count](https://profile-counter.glitch.me/jdb443/count.svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jdb443&label=Profile%20views&color=0e75b6&style=flat" alt="jdb443" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jdb443&label=Profile%20views&color=52b3d9&style=flat" alt="jdb443" /> </p>
 
 <br/>
 <p align="center">

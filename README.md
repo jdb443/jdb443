@@ -68,7 +68,12 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Adobe XD](https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white)](https://helpx.adobe.com/support/xd.html)
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
+[![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)](https://developer.amazon.com/en-US/alexa)
+[![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/)
+[![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)](https://github.com/dependabot)
+[![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)](https://assistant.google.com/)
 [![Drools](https://img.shields.io/badge/Drools-%23FF6347.svg?style=for-the-badge&logo=drools&logoColor=white)](https://www.drools.org/)
+[![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)](https://www.hyperledger.org/)
 
 <!-- [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)] -->
 ![Visitor Count](https://profile-counter.glitch.me/jdb443/count.svg)

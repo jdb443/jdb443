@@ -159,6 +159,9 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/)
 [![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange)](https://stackexchange.com/)
 [![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)](https://www.xda-developers.com/)
+[![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.bookstackapp.com/docs/)
+[![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)](https://www.wikipedia.org/)
+[![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white)](https://js.wiki/)
 [![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)](https://www.hyperledger.org/)
 
 <!-- [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)] -->
@@ -168,7 +171,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 <br/>
 <p align="center">
     <a href="https://github.com/jdb443">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdb443&theme=algolia&border=52b3d9&background=0D1117" alt="Jon's GitHub streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdb443&theme=react&border=52b3d9&background=0D1117" alt="Jon's GitHub streak"/>
     </a>
 </p>
 <p align="center">

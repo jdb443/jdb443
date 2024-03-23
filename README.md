@@ -14,6 +14,10 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 
 # 🌐 Connect with me
 
+<a href="https://jdb443.github.io" target="blank">
+    <img src="https://img.shields.io/badge/Website-003865?style=for-the-badge&logo=medium&logoColor=52b3d9" alt="Jonathan Behar" />
+</a>
+
 ## [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jbehar/) [![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/jdb443)
 
 # 💰 Funding
@@ -110,6 +114,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)](https://docs.astro.build/en/getting-started/)
 [![Aurelia](https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=for-the-badge&logo=aurelia&logoColor=fff)](https://aurelia.io/)
 [![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
+[]
 
 [![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white)](https://www.cockroachlabs.com/docs/)
 [![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white)](https://docs.couchbase.com/home/index.html)

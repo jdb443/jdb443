@@ -6,7 +6,7 @@ I am a Software Developer and Consultant who graduated from Columbia University 
 
 # 🚀 What I'm Up To
 
-Check out my [coding portfolio!](https://jdb443.github.io target="_blank")
+Check out my <a target="blank">[coding portfolio!](https://jdb443.github.io)</a>
 
 # 🎓 Background
 

@@ -6,20 +6,18 @@ I am a Software Developer and Consultant who graduated from Columbia University 
 
 # 🚀 What I'm Up To
 
-Check out my [coding portfolio!](https://jdb443.github.io)
+Check out my [coding portfolio!](https://jdb443.github.io){:target="_blank"}
 
 # 🎓 Background
 
 Full-Stack Software Engineer with a Computer Science, Information Systems, and Finance background. Skilled at producing production and non-production code for automating tasks. Performance-focused, detail-oriented, and multifaceted Full-Stack Engineer offering progressive experience in Full-Stack web application architecture.
 
 # 🌐 Connect with me
-
-<a href="https://jdb443.github.io" target="blank">
+<!-- <a href="https://jdb443.github.io" target="blank">
     <img src="https://img.shields.io/badge/Jon's_Website-003865?style=for-the-badge&logo=medium&logoColor=52b3d9" alt="Jonathan Behar" />
-</a>
+</a> -->
 
-
-## [![Jon's Website](https://img.shields.io/badge/Jon's_Website-003865?style=for-the-badge&logo=medium&logoColor=52b3d9)](https://jdb443.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jbehar/) [![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/jdb443)
+## [![Jon's Website](https://img.shields.io/badge/Jon's_Website-003865?style=for-the-badge&logo=medium&logoColor=52b3d9)](https://jdb443.github.io){:target="_blank"} [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jbehar/){:target="_blank"} [![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/jdb443){:target="_blank"}
 
 # 💰 Funding
 

@@ -4,22 +4,23 @@
 
 I am a Software Developer and Consultant who graduated from Columbia University Fu Foundation School of Engineering in Full-Stack Development and New York University Leonard N. Stern School of Business with a Major in Information Systems and Finance and a Minor in Business of Entertainment Media and Technology. Passionate about exploring the realms of coding, machine learning, and building robust applications.
 
-## 🚀 What I'm Up To
+# 🚀 What I'm Up To
 
 Check out my [coding portfolio!](https://jdb443.github.io)
 
-## 🎓 Background
+# 🎓 Background
 
 Full-Stack Software Engineer with a Computer Science, Information Systems, and Finance background. Skilled at producing production and non-production code for automating tasks. Performance-focused, detail-oriented, and multifaceted Full-Stack Engineer offering progressive experience in Full-Stack web application architecture.
 
-## 🌐 Connect with me
+# 🌐 Connect with me
 
-### [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jbehar/) [![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/jdb443)
+## [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jbehar/) [![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/jdb443)
 
-## 💰 Funding
+# 💰 Funding
 
-### Buy Me a Coffee! [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jdb443)
-### PayPal Me! [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Jdb443)
+## Buy Me a Coffee! [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jdb443)
+
+## PayPal Me! [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Jdb443)
 
 # 💻 Tech Stack
 
@@ -108,6 +109,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)](https://cwiki.apache.org/confluence/display/HIVE)
 [![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)](https://docs.astro.build/en/getting-started/)
 [![Aurelia](https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=for-the-badge&logo=aurelia&logoColor=fff)](https://aurelia.io/)
+[![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 
 [![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white)](https://www.cockroachlabs.com/docs/)
 [![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white)](https://docs.couchbase.com/home/index.html)

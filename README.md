@@ -23,7 +23,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 
 ## Buy Me a Coffee! [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jdb443)
 
-### PayPal Me! [![PayPal](https://img.shields.io/badge/PayPal-1F2751?style=for-the-badge&logo=paypal&logoColor=2790C3)](https://paypal.me/Jdb443)
+## PayPal Me! [![PayPal](https://img.shields.io/badge/PayPal-1F2751?style=for-the-badge&logo=paypal&logoColor=2790C3)](https://paypal.me/Jdb443)
 
 # 💻 Tech Stack
 

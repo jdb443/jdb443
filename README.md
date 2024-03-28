@@ -355,6 +355,8 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Wii U](https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white)](https://en.wikipedia.org/wiki/Wii_U)
 [![Wise](https://img.shields.io/badge/Wise-394e79?style=for-the-badge&logo=wise&logoColor=00B9FF)](https://wise.com/us/)
 [![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)](https://www.hyperledger.org/)
+[![Micro.blog](https://img.shields.io/badge/Micro.blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white)](https://micro.blog/)
+[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://substack.com/)
 
 <!-- [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)] -->
 ![Visitor Count](https://profile-counter.glitch.me/jdb443/count.svg)

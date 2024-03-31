@@ -193,12 +193,13 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
 [![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)](https://www.centos.org/)
 [![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)](https://www.google.com/chromebook/chrome-os/)
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
+[![Deepin](https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white)](https://www.deepin.org/index/en)
+[![Elementary OS](https://img.shields.io/badge/-elementary%20OS-black?style=for-the-badge&logo=elementary&logoColor=white)](https://developer.elementary.io/)
+[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoraproject.org/)
+[![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white)](https://docs.freebsd.org/en/)
+[![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)](https://www.gentoo.org/)
+
 []()
 []()
 []()
@@ -467,7 +468,6 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Micro.blog](https://img.shields.io/badge/Micro.blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white)](https://micro.blog/)
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://substack.com/)
 
-<!-- [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)] -->
 ![Visitor Count](https://profile-counter.glitch.me/jdb443/count.svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdb443&label=Profile%20views&color=003865&style=for-the-badge" alt="jdb443" /> </p>
 

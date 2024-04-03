@@ -6,7 +6,7 @@ I am a Software Developer and Consultant who graduated from Columbia University 
 
 # 🚀 What I'm Up To
 
-Check out my <a target="_blank">[coding portfolio!](https://jdb443.github.io)</a>
+Check out my <a target="_blank">[coding portfolio!](https://jdb443.github.io)</a> [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=52b3d9)](https://jdb443.github.io)
 
 # 🎓 Background
 
@@ -234,6 +234,9 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://hibernate.org/)
 [![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/docs)
 [![Quill](https://img.shields.io/badge/Quill-52B0E7?style=for-the-badge&logo=apache&logoColor=white)](https://zio.dev/zio-quill/)
+[![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)]()
+[![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)]()
+[![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)]()
 []()
 [![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)](https://clojure.org/)
 [![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white)](https://crystal-lang.org/)

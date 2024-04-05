@@ -126,6 +126,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase)](https://firebase.google.com/docs)
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.com/)
 [![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/xamarin?afsrc=1&bfsrc=7)
+[![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-146eb4?style=for-the-badge&logo=amazonprime&logoColor=ff9900)](https://www.amazon.com/amazonprime)
 [![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)](https://developer.amazon.com/en-US/alexa)
 [![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/)
 [![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)

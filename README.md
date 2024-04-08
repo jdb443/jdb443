@@ -399,7 +399,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white)](https://www.mercurial-scm.org/)
 [![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-00AEEF?style=for-the-badge&logo=Perforce&logoColor=white)](https://www.perforce.com/products/helix-core)
 []()
-[]()
+[![Fitbit](https://img.shields.io/badge/fitbit-00B0B9?style=for-the-badge&logo=fitbit&logoColor=white)](https://www.fitbit.com/global/us/home)
 []()
 []()
 []()

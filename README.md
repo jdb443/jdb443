@@ -152,6 +152,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge)](https://typegraphql.com/docs/introduction.html)
 [![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://www.apple.com/macos)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios)
+[![WatchOS](https://img.shields.io/badge/WatchOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/watchos/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11-apps)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11?r=1)
 [![Windows 95](https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white)](https://en.wikipedia.org/wiki/Windows_95)

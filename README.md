@@ -25,6 +25,8 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 
 ## PayPal Me! [![PayPal](https://img.shields.io/badge/PayPal-1F2751?style=for-the-badge&logo=paypal&logoColor=2790C3)](https://paypal.me/Jdb443)
 
+## Venmo Me! [![Venmo](https://img.shields.io/badge/Venmo-008CFF?style=for-the-badge&logo=venmo&logoColor=white)](https://www.venmo.com/u/Jonathan-Behar-2)
+
 # 💻 Tech Stack
 
 ## Languages, Developer Tools, Frameworks, Libraries and Skills&#58;
@@ -150,7 +152,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)](https://www.apollographql.com/docs/)
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
-[![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge)](https://typegraphql.com/docs/introduction.html)
+[![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge&logo=graphql&logoColor=white)](https://typegraphql.com/docs/introduction.html)
 [![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://www.apple.com/macos)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios)
 [![WatchOS](https://img.shields.io/badge/WatchOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/watchos/)
@@ -614,6 +616,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![LiberaPay](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://en.liberapay.com/)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/)
 [![PayPal](https://img.shields.io/badge/PayPal-1F2751?style=for-the-badge&logo=paypal&logoColor=2790C3)](https://paypal.me/Jdb443)
+[![Venmo](https://img.shields.io/badge/Venmo-008CFF?style=for-the-badge&logo=venmo&logoColor=white)](https://www.venmo.com/u/Jonathan-Behar-2)
 [![Paytm](https://img.shields.io/badge/Paytm-1C2C94?style=for-the-badge&logo=paytm&logoColor=05BAF3)](https://paytm.com/)
 [![Phonepe](https://img.shields.io/badge/Phonepe-54039A?style=for-the-badge&logo=phonepe&logoColor=white)](https://www.phonepe.com/)
 [![Samsung Pay](https://img.shields.io/badge/SamsungPay-1428A0.svg?style=for-the-badge&logo=Samsung-Pay&logoColor=white)](https://www.samsung.com/us/samsung-pay/)

@@ -91,6 +91,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Cocoapods](https://img.shields.io/badge/Cocoapods-EE3322?style=for-the-badge&logo=Cocoapods&logoColor=white)](https://cocoapods.org/)
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
 [![VHDL](https://img.shields.io/badge/VHDL-%234C709D.svg?style=for-the-badge&logo=V&logoColor=white)](https://opensource.ieee.org/vasg)
 [![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
@@ -673,7 +674,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
     <a href="https://github.com/jdb443">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jdb443&theme=react&border=52b3d9&background=0D1117" alt="Jon's GitHub Contribution"/>
     </a>
-</p>ba
+</p>
 <p>
     <a href="https://github.com/jdb443"><img alt="Jon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=jdb443&show_icons=true&count_private=true&theme=algolia&border_color=52b3d9&bg_color=0D1117&title_color=52b3d9&icon_color=52b3d9" height="192px" width="49.5%"/></a>
     <a href="https://github.com/jdb443"><img alt="Jon's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jdb443&langs_count=8&layout=compact&theme=react&border_color=52b3d9&bg_color=0D1117&title_color=52b3d9&icon_color=52b3d9" height="192px" width="49.5%"/></a>

@@ -27,7 +27,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 
 # 💻 Tech Stack
 
-## Languages, Developer Tools, Frameworks and Libraries&#58;
+## Languages, Developer Tools, Frameworks, Libraries and Skills&#58;
 
 [![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://www.javascript.com/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
@@ -339,7 +339,9 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jbehar/)
 [![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://www.indeed.com/)
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://www.angellist.com/)
-[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com/)gt
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com/)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/)
+[![Upwork](https://img.shields.io/badge/UpWork%20Top%20Rated%20Plus-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://jdb443.github.io/#resume)
 []()
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/)
 [![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white)](https://www.meetup.com/)

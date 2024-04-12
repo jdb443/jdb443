@@ -155,6 +155,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)](https://aws.amazon.com/sqs/)
 [![Amazon Lumberyard](https://img.shields.io/badge/Amazon%20Lumberyard-66459B?style=for-the-badge&logo=amazonlumberyard&logoColor=white)](https://aws.amazon.com/lumberyard/)
 [![Amazon Luna](https://img.shields.io/badge/Amazon%20Luna-9146FF?style=for-the-badge&logo=amazonluna&logoColor=white)](https://luna.amazon.com/)
+[![Amazon Redshift](https://img.shields.io/badge/amazon%20redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)](https://aws.amazon.com/redshift/)
 []()
 []()
 []()

@@ -150,7 +150,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)](https://aws.amazon.com/eks/)
 [![Amazon ElastiCache](https://img.shields.io/badge/Amazon%20elasticache-C925D1?style=for-the-badge&logo=amazondocumentdb&logoColor=white)](https://aws.amazon.com/pm/elasticache/)
 [![Amazon Identity Access Management](https://img.shields.io/badge/Amazon%20Identity%20Access%20Management-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white)](https://aws.amazon.com/iam/)
-[]()
+[![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)](https://aws.amazon.com/pm/serv-s3/)
 []()
 []()
 []()

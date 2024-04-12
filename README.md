@@ -148,6 +148,8 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)](https://aws.amazon.com/ec2/)
 [![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)](https://aws.amazon.com/ecs/)
 [![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)](https://aws.amazon.com/eks/)
+[![Amazon ElastiCache](https://img.shields.io/badge/Amazon%20elasticache-C925D1?style=for-the-badge&logo=amazondocumentdb&logoColor=white)](https://aws.amazon.com/pm/elasticache/)
+[![Amazon Identity Access Management](https://img.shields.io/badge/Amazon%20Identity%20Access%20Management-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white)](https://aws.amazon.com/iam/)
 []()
 []()
 [![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)](https://react.semantic-ui.com/)

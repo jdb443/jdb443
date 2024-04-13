@@ -157,7 +157,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Amazon Luna](https://img.shields.io/badge/Amazon%20Luna-9146FF?style=for-the-badge&logo=amazonluna&logoColor=white)](https://luna.amazon.com/)
 [![Amazon Redshift](https://img.shields.io/badge/amazon%20redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)](https://aws.amazon.com/redshift/)
 [![Amazon Route 53](https://img.shields.io/badge/amazon%20route%2053-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white)](https://aws.amazon.com/route53/)
-[![Amazon Simple Email Service](https://img.shields.io/badge/amazon%20simple%20email%20service-DD344C?style=for-the-badge&logo=amazonsimpleemailservice&logoColor=white)]()
+[![Amazon Simple Email Service](https://img.shields.io/badge/amazon%20simple%20email%20service-DD344C?style=for-the-badge&logo=amazonsimpleemailservice&logoColor=white)](https://aws.amazon.com/ses/)
 []()
 []()
 []()

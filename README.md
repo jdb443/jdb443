@@ -6,7 +6,7 @@ I am a Software Developer and Consultant who graduated from Columbia University 
 
 # 🚀 What I'm Up To
 
-Check out my <a target="_blank">[coding portfolio!](https://jdb443.github.io)</a> [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=52b3d9)](https://jdb443.github.io)
+Check out my <a target="_blank">[coding portfolio!](https://jdb443.github.io)</a> [![Portfolio](https://img.shields.io/badge/Jon's%20Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=52b3d9)](https://jdb443.github.io)
 
 # 🎓 Background
 

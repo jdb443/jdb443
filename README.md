@@ -238,6 +238,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Apache CloudStack](https://img.shields.io/badge/Apache%20CloudStack-%232AA5DC.svg?style=for-the-badge&logo=apachecloudstack&logoColor=white)](https://docs.cloudstack.apache.org/)
 [![Apache Cordova](https://img.shields.io/badge/Apache%20Cordova-%23E8E8E8.svg?style=for-the-badge&logo=apachecordova&logoColor=white)](https://cordova.apache.org/docs/en/latest/)
 [![Apache CouchDB](https://img.shields.io/badge/Apache%20CouchDB-%23E42528.svg?style=for-the-badge&logo=apachecouchdb&logoColor=white)](https://couchdb.apache.org/)
+[![Apache Druid](https://img.shields.io/badge/Apache%20Druid-%234c4c4c.svg?style=for-the-badge&logo=apachedruid&logoColor=29F1FB)](https://druid.apache.org/)
 []()
 [![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)](https://nightlies.apache.org/flink/flink-docs-stable/)
 [![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)](https://groovy-lang.org/documentation.html)

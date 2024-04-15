@@ -235,6 +235,8 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)](https://airflow.apache.org/docs/)
 [![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white)](https://ant.apache.org/)
 [![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)](https://cassandra.apache.org/_/index.html)
+[![Apache CloudStack](https://img.shields.io/badge/Apache%20CloudStack-%232AA5DC.svg?style=for-the-badge&logo=apachecloudstack&logoColor=white)](https://docs.cloudstack.apache.org/)
+[]()
 [![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)](https://nightlies.apache.org/flink/flink-docs-stable/)
 [![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)](https://groovy-lang.org/documentation.html)
 [![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org/)

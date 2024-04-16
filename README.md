@@ -1,5 +1,7 @@
 <h1 align="center" style="color: #52b3d9">Hi I'm Jonathan Behar</h1>
 
+# $\color{#52b3d9}{\textsf{Hi I'm Jonathan Behar}}$
+
 # 💫 About Me
 
 I am a Software Developer and Consultant who graduated from Columbia University Fu Foundation School of Engineering in Full-Stack Development and New York University Leonard N. Stern School of Business with a Major in Information Systems and Finance and a Minor in Business of Entertainment Media and Technology. Passionate about exploring the realms of coding, machine learning, and building robust applications.

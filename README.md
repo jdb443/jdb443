@@ -1,7 +1,4 @@
 <h1 align="center" style="color: #52b3d9">Hi I'm Jonathan Behar</h1>
-<h1 align="center"><font color="#52b3d9">Hi I'm Jonathan Behar</font></h1>
-
-# $\color{#52b3d9}{\textsf{Hi I'm Jonathan Behar}}$
 
 # 💫 About Me
 

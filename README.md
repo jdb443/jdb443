@@ -1,4 +1,4 @@
-<h1 style="text-align: center; color: #52b3d9">Hi I'm Jonathan Behar</h1>
+<h1 align="center"><font color="#52b3d9">Hi I'm Jonathan Behar</font></h1>
 
 # 💫 About Me
 

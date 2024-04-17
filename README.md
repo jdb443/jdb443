@@ -1,7 +1,12 @@
 <h1 align="center" style="color: #52b3d9">Hi I'm Jonathan Behar</h1>
-<h1 align="center"><code style="color : #52b3d9">Hi I'm Jonathan Behar</code></h1>
 
 # $\color{SkyBlue}{\textsf{Hi I'm Jonathan Behar}}$
+
+# $\beign{center}\color{#52b3d9}{\textsf{Hi I'm Jonathan Behar}}\end{center}$
+
+# $\begin{center}\centering{\color{#52b3d9}{\textsf{Hi I'm Jonathan Behar}}}\end{center}$
+
+# $\begin{titlepage}\enlargethispage{2cm}\begin{center}\makeatletter\color{SkyBlue}\Huge\textbf{Hi I'm Jonathan Behar}\end{center}\end{titlepage}$
 
 # 💫 About Me
 

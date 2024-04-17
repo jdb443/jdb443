@@ -1,4 +1,7 @@
 <h1 align="center" style="color: #52b3d9">Hi I'm Jonathan Behar</h1>
+<h1 align="center"><code style="color : #52b3d9">Hi I'm Jonathan Behar</code></h1>
+
+# $\color{SkyBlue}{\textsf{Hi I'm Jonathan Behar}}$
 
 # 💫 About Me
 
@@ -247,7 +250,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)](https://cwiki.apache.org/confluence/display/HIVE)
 [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)](https://kafka.apache.org/)
 [![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)](https://maven.apache.org/guides/index.html)
-[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)](https://spark.apache.org/documentation.html)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)](https://spark.apache.org/documentation.html)
 [![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)](https://subversion.apache.org/docs/)
 [![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)](https://tomcat.apache.org/)
 []()

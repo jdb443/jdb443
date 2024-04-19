@@ -142,6 +142,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/)
 [![Amazon AWS Amplify](https://img.shields.io/badge/Amazon%20AWS%20Amplify-%23FF9900.svg?style=for-the-badge&logo=awsamplify&logoColor=white)](https://aws.amazon.com/amplify/)
 [![Amazon AWS Elastic Load Balancing](https://img.shields.io/badge/Amazon%20AWS%20Elastic%20Load%20Balancing-%238C4FFF.svg?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white)](https://aws.amazon.com/elasticloadbalancing/)
+[![Amazon AWS Fargate](https://img.shields.io/badge/Amazon%20AWS%20Fargate-%23FF9900.svg?style=for-the-badge&logo=awsfargate&logoColor=white)](https://aws.amazon.com/fargate/)
 []()
 [![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)
 [![Amazon API Gateway](https://img.shields.io/badge/Amazon%20API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)](https://aws.amazon.com/api-gateway/)

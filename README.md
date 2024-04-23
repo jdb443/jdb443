@@ -175,6 +175,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/)
 [![Azure Artifacts](https://img.shields.io/badge/Azure%20Artifacts-CB2E6D?style=for-the-badge&logo=azureartifacts&logoColor=white)](https://azure.microsoft.com/en-us/products/devops/artifacts)
+[![Azure Data Explorer](https://img.shields.io/badge/Azure%20Data%20Explorer-0078D4?style=for-the-badge&logo=azuredataexplorer&logoColor=white)](https://azure.microsoft.com/en-us/products/data-explorer)
 
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)](https://www.apollographql.com/docs/)

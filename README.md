@@ -178,6 +178,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Azure Data Explorer](https://img.shields.io/badge/Azure%20Data%20Explorer-0078D4?style=for-the-badge&logo=azuredataexplorer&logoColor=white)](https://azure.microsoft.com/en-us/products/data-explorer)
 [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/products/devops)
 [![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)](https://azure.microsoft.com/en-us/products/functions)
+[![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-2560E0?style=for-the-badge&logo=azurepipelines&logoColor=white)](https://azure.microsoft.com/en-us/products/devops/pipelines)
 []()
 []()
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)

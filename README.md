@@ -232,7 +232,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12166450/jonathan-b)
 [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet-framework)
 [![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)](https://gulpjs.com/)
-[![COBOL](https://img.shields.io/badge/COBOL-4298B8.svg?style=for-the-badge)](https://www.tutorialspoint.com/cobol/index.htm)
+[![COBOL](https://img.shields.io/badge/COBOL-4298B8.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.tutorialspoint.com/cobol/index.htm)
 [![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)](https://fortran-lang.org/)
 [![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
 [![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/)

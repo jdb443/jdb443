@@ -640,7 +640,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)](https://docs.datadoghq.com/)
 [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)](https://www.digitalocean.com/)
 [![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)](https://glitch.com/https://glitch.com/)
-[![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)](https://www.linode.com/)
+[![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=akamai&logoColor=white)](https://www.linode.com/)
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://docs.netlify.com/)
 [![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)](https://us.ovhcloud.com/)
 [![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)](https://www.pythonanywhere.com/)

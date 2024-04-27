@@ -490,7 +490,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)](https://surrealdb.com/docs/)
 [![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)](https://www.teradata.com/)
 [![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)](https://circleci.com/docs/)
-[![Chipper CI](https://img.shields.io/badge/chipper%20CI-1e394e.svg?style=for-the-badge&logo=chipperci&logoColor=white)](https://chipperci.com/docs/)
+[![Chipper CI](https://img.shields.io/badge/chipper%20CI-1e394e.svg?style=for-the-badge&logo=c&logoColor=white)](https://chipperci.com/docs/)
 [![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge)](https://www.cloudbees.com/)
 [![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)](https://www.jetbrains.com/teamcity/)
 [![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)](https://www.travis-ci.com/)

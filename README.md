@@ -193,7 +193,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11?r=1)
 [![Windows 95](https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white)](https://en.wikipedia.org/wiki/Windows_95)
 [![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)](https://en.wikipedia.org/wiki/Windows_XP)
-[![Android](https://img.shields.io/badge/Android-%2307405e.svg?&style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/studio)
+[![Android](https://img.shields.io/badge/Android-%2307405e.svg?&style=for-the-badge&logo=android&logoColor=3DDC84)](https://developer.android.com/studio)
 [![Android Auto](https://img.shields.io/badge/Android%20Auto-%233DDC84.svg?&style=for-the-badge&logo=androidauto&logoColor=white)](https://www.android.com/auto/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/docs/home.html)
 [![Go Programming Language](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/doc/)

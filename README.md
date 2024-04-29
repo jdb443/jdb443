@@ -90,7 +90,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)](https://daisyui.com/)
 [![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)](https://legacy.reactjs.org/docs/context.html)
 [![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=D04A37)](https://docs.expo.dev/)
-[![Bluetooth](https://img.shields.io/badge/Bluetooth%20Development-white?style=for-the-badge&logo=bluetooth&logoColor=133ebf)](https://www.bluetooth.com/develop-with-bluetooth/)
+[![Bluetooth Development](https://img.shields.io/badge/Bluetooth%20Development-white?style=for-the-badge&logo=bluetooth&logoColor=133ebf)](https://www.bluetooth.com/develop-with-bluetooth/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)

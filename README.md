@@ -212,6 +212,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/access)
 [![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/enterprise/copilot-for-microsoft-365)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Microsoft Exchange](https://img.shields.io/badge/Microsoft%20Exchange-0078D4?style=for-the-badge&logo=microsoftexchange&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/exchange/email)
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/)
 [![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/outlook/)
 [![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-217346?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software)

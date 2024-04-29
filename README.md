@@ -46,7 +46,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/docs)
 [![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)](https://docs.angularjs.org/guide)
 [![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/docs)
-[![Materialize CSS](https://img.shields.io/badge/Materialize%20CSS-ee6e73?style=for-the-badge&logo=materialdesign&logoColor=white)](https://materializecss.com/)
+[![Materialize CSS](https://img.shields.io/badge/Materialize%20CSS-ee6e73?style=for-the-badge&logo=matomo&logoColor=white)](https://materializecss.com/)
 [![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)](https://docs.djangoproject.com/en/5.0/)
 [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=6B1F28)](https://www.django-rest-framework.org/topics/documenting-your-api/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)

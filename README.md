@@ -208,6 +208,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/)
 [![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white)](https://www.bing.com/)
+[![Microsoft Academic](https://img.shields.io/badge/Microsoft%20Academic-2D9FD9?style=for-the-badge&logo=microsoftacademic&logoColor=white)](https://www.microsoft.com/en-us/research/project/academic/)
 [![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/access)
 [![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/enterprise/copilot-for-microsoft-365)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)

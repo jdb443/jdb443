@@ -53,7 +53,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![RESTful APIs](https://img.shields.io/badge/RESTful_API-000000?style=for-the-badge&logo=react)](https://www.restfulapi.net/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-%23306998.svg?style=for-the-badge&logo=python&logoColor=FFD43B)](https://www.python.org/)
 [![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://www.typescriptlang.org/docs/)
 [![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org/documentation/)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-%230071e3.svg?&style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/documentation/swiftui/)

@@ -261,7 +261,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Apache Druid](https://img.shields.io/badge/Apache%20Druid-%234c4c4c.svg?style=for-the-badge&logo=apachedruid&logoColor=29F1FB)](https://druid.apache.org/)
 [![Apache ECharts](https://img.shields.io/badge/Apache%20ECharts-%23AA344D.svg?style=for-the-badge&logo=apacheecharts&logoColor=white)](https://echarts.apache.org/en/option.html#title)
 [![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)](https://nightlies.apache.org/flink/flink-docs-stable/)
-[]()
+[![Apache FreeMarker](https://img.shields.io/badge/Apache%20FreeMarker-326CAC?style=for-the-badge&logo=apachefreemarker&logoColor=white)](https://freemarker.apache.org/index.html)
 [![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)](https://groovy-lang.org/documentation.html)
 [![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org/)
 [![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)](https://cwiki.apache.org/confluence/display/HIVE)

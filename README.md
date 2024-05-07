@@ -273,6 +273,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Apache NetBeans IDE](https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)](https://netbeans.apache.org/front/main/index.html)
 [![Apache OpenOffice](https://img.shields.io/badge/Apache%20OpenOffice-0E85CD?style=for-the-badge&logo=apacheopenoffice&logoColor=white)](https://www.openoffice.org/)
 [![Apache Parquet](https://img.shields.io/badge/Apache%20Parquet-50ABF1?style=for-the-badge&logo=apacheparquet&logoColor=white)](https://parquet.apache.org/docs/)
+[![Apache Pulsar](https://img.shields.io/badge/Apache%20Pulsar-188FFF?style=for-the-badge&logo=apachepulsar&logoColor=white)](https://pulsar.apache.org/docs/next/)
 []()
 []()
 []()

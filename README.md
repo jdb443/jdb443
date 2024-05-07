@@ -276,8 +276,6 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Apache Pulsar](https://img.shields.io/badge/Apache%20Pulsar-188FFF?style=for-the-badge&logo=apachepulsar&logoColor=white)](https://pulsar.apache.org/docs/next/)
 []()
 []()
-[]()
-[]()
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)](https://spark.apache.org/documentation.html)
 [![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)](https://subversion.apache.org/docs/)
 [![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)](https://tomcat.apache.org/)

@@ -274,6 +274,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Apache OpenOffice](https://img.shields.io/badge/Apache%20OpenOffice-0E85CD?style=for-the-badge&logo=apacheopenoffice&logoColor=white)](https://www.openoffice.org/)
 [![Apache Parquet](https://img.shields.io/badge/Apache%20Parquet-50ABF1?style=for-the-badge&logo=apacheparquet&logoColor=white)](https://parquet.apache.org/docs/)
 [![Apache Pulsar](https://img.shields.io/badge/Apache%20Pulsar-188FFF?style=for-the-badge&logo=apachepulsar&logoColor=white)](https://pulsar.apache.org/docs/next/)
+[![Apache RocketMQ](https://img.shields.io/badge/Apache%20Pulsar-D77310?style=for-the-badge&logo=apacherocketmq&logoColor=white)](https://rocketmq.apache.org/)
 []()
 []()
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)](https://spark.apache.org/documentation.html)

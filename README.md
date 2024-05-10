@@ -186,7 +186,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql)](https://www.apollographql.com/docs/)
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
-[![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge&logo=graphql&logoColor=white)](https://typegraphql.com/docs/introduction.html)
+[![Type-Graphql](https://img.shields.io/badge/Type--GraphQL-%23C04392?style=for-the-badge&logo=graphql&logoColor=white)](https://typegraphql.com/docs/introduction.html)
 [![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://www.apple.com/macos)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios)
 [![WatchOS](https://img.shields.io/badge/WatchOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/watchos/)

@@ -204,6 +204,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![IBM AIX](https://img.shields.io/badge/IBM%20AIX-052FAD?style=for-the-badge&logo=IBM&logoColor=white)](https://www.ibm.com/products/aix)
 [![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)](https://www.ibm.com/cloud)
 [![IBM Watson](https://img.shields.io/badge/IBM%20Watson-BE95FF?style=for-the-badge&logo=IBMWatson&logoColor=white)](https://www.ibm.com/watson)
+[]()
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)](https://linuxmint.com/)
 [![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)](https://www.electronjs.org/docs/latest/)
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)

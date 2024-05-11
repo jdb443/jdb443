@@ -454,7 +454,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Facebook Gaming](https://img.shields.io/badge/Facebook%20Gaming-015BE5?style=for-the-badge&logo=facebookgaming&logoColor=white)](https://www.facebook.com/gaming/video/)
 [![Facebook Live](https://img.shields.io/badge/Facebook%20Live-ED4242?style=for-the-badge&logo=Facebook%20Live&logoColor=white)](https://www.facebook.com/formedia/tools/facebook-live)
 [![Fire TV](https://img.shields.io/badge/fire%20tv-fc3b2d?style=for-the-badge&logo=amazon%20fire%20tv&logoColor=white)](https://www.amazon.com/s?k=fire+tv)
-[![Hulu](https://img.shields.io/badge/hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white)](https://www.hulu.com/hub/home)
+[![Hulu](https://img.shields.io/badge/Hulu-1CE783?style=for-the-badge&logo=hackclub&logoColor=2d2926)](https://www.hulu.com/hub/home)
 [![Netflix](https://img.shields.io/badge/Netflix-000000?style=for-the-badge&logo=netflix&logoColor=E50914)](https://www.netflix.com/)
 [![Roku](https://img.shields.io/badge/roku-6f1ab1?style=for-the-badge&logo=roku&logoColor=white)](https://www.roku.com/)
 [![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/)

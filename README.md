@@ -121,7 +121,6 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://www.apple.com/app-store/)
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps)
 [![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-005FB8?style=for-the-badge&logo=microsoftstore&logoColor=white)](https://apps.microsoft.com/home?hl=en-us&gl=US)
-
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/docs.php)
 [![Bash Shell](https://img.shields.io/badge/Bash%20Shell-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=black)](https://www.gnu.org/software/bash/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)

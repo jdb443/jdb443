@@ -241,6 +241,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://www.adobe.com/products/premiere.html)
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://helpx.adobe.com/support/xd.html)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12166450/jonathan-b)
+[![.env](https://img.shields.io/badge/.ENV-000000?style=for-the-badge&logo=dotenv&logoColor=ECD53F)](https://www.dotenv.org/)
 [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet-framework)
 [![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)](https://gulpjs.com/)
 [![COBOL](https://img.shields.io/badge/COBOL-4298B8.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.tutorialspoint.com/cobol/index.htm)

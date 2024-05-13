@@ -58,6 +58,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org/documentation/)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-%230071e3.svg?&style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/documentation/swiftui/)
 [![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
+[![Object-Oriented Programming](https://img.shields.io/badge/OBJECT--Oriented%20Programming-%23f29b2d.svg?style=for-the-badge&logo=loop&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=coffeescript&logoColor=white)](https://dev.java/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)

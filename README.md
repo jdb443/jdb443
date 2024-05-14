@@ -315,6 +315,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)](https://pop.system76.com/)
 [![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.redhat.com/en)
 [![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white)](https://rockylinux.org/)
+[![xaml](https://img.shields.io/badge/XAML-%230C54C2?style=for-the-badge&logo=xaml&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/)
 [![Solus](https://img.shields.io/badge/Solus-%23f2f2f2.svg?style=for-the-badge&logo=solus&logoColor=5294E2)](https://getsol.us/)
 [![Suse](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)](https://www.suse.com/)
 [![Slackware](https://img.shields.io/badge/-Slackware-%231357BD?style=for-the-badge&logo=slackware&logoColor=white)](http://www.slackware.com/)

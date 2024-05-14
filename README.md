@@ -128,6 +128,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh/)
 [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://apps.microsoft.com/detail/9n8g5rfz9xk3?hl=en-us&gl=US)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/docs.php)
+[![XML](https://img.shields.io/badge/XML-%23ed7e0e.svg?style=for-the-badge&logo=XRP&logoColor=white)](https://www.w3.org/XML/)
 [![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)](https://www.perl.org/docs.html)
 [![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c)](https://rescript-lang.org/)
 [![Atom IDE](https://img.shields.io/badge/Atom%20IDE-%2366595C.svg?style=for-the-badge&logo=react&logoColor=white)](https://atom-editor.cc/)

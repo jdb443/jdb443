@@ -140,6 +140,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.microsoft.com/en-us/power-platform/products/power-bi/)
 [![Qlik](https://img.shields.io/badge/Qlik-%23009848.svg?style=for-the-badge&logo=qlik&logoColor=white)](https://www.qlik.com/us/)
 [![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-%23009848.svg?style=for-the-badge&logo=qlik&logoColor=white)](https://www.qlik.com/us/products/qlik-sense)
+[![QuickBooks](https://img.shields.io/badge/QuickBooks-%232CA01C.svg?style=for-the-badge&logo=quickbooks&logoColor=white)](https://quickbooks.intuit.com/)
 [![BitBucket](https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
 [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/docs/)

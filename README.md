@@ -226,7 +226,6 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Microsoft Sway](https://img.shields.io/badge/Microsoft_Sway-008272?style=for-the-badge&logo=microsoft&logoColor=white)](https://sway.cloud.microsoft/)
 [![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-5B5FC7?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/microsoft-teams/)
 [![Microsoft Translator](https://img.shields.io/badge/Microsoft%20Translator-057B00?style=for-the-badge&logo=microsofttranslator&logoColor=white)](https://translator.microsoft.com/)
-
 [![Microsoft Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/visio/)
 [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word)
 [![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=318BFF)](https://prezi.com/)

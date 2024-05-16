@@ -417,6 +417,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 []()
 []()
 []()
+[]()
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/)
 [![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white)](https://www.meetup.com/)
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.messenger.com/)

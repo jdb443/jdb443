@@ -746,6 +746,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)](https://babeljs.io/docs/)
 [![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)](https://bitwarden.com/)
 []()
+[]()
 [![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=caffeine&logoColor=white)](https://www.hyperledger.org/)
 [![Micro.blog](https://img.shields.io/badge/Micro.blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white)](https://micro.blog/)
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://substack.com/)

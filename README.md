@@ -185,7 +185,6 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://docs.nestjs.com/)
 [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/docs/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
-
 [![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/)
 [![Azure Artifacts](https://img.shields.io/badge/Azure%20Artifacts-CB2E6D?style=for-the-badge&logo=azureartifacts&logoColor=white)](https://azure.microsoft.com/en-us/products/devops/artifacts)
 [![Azure Data Explorer](https://img.shields.io/badge/Azure%20Data%20Explorer-0078D4?style=for-the-badge&logo=azuredataexplorer&logoColor=white)](https://azure.microsoft.com/en-us/products/data-explorer)
@@ -418,6 +417,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Upwork Top Rated Plus](https://img.shields.io/badge/UpWork%20Top%20Rated%20Plus-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://jdb443.github.io/#resume)
 []()
 []()
+[]()
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/)
 [![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white)](https://www.meetup.com/)
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.messenger.com/)
@@ -527,7 +527,6 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/)
 [![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)](https://github.com/dependabot)
-
 [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/edge)
 [![Firefox](https://img.shields.io/badge/Firefox-000000?style=for-the-badge&logo=Firefox-Browser&logoColor=FF7139)](https://www.mozilla.org/en-US/firefox/new/)
 [![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)](https://assistant.google.com/)

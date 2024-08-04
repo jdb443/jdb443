@@ -184,7 +184,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/docs/)
 [![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://docs.nestjs.com/)
 [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/docs/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)1
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/)
 [![Azure Artifacts](https://img.shields.io/badge/Azure%20Artifacts-CB2E6D?style=for-the-badge&logo=azureartifacts&logoColor=white)](https://azure.microsoft.com/en-us/products/devops/artifacts)
 [![Azure Data Explorer](https://img.shields.io/badge/Azure%20Data%20Explorer-0078D4?style=for-the-badge&logo=azuredataexplorer&logoColor=white)](https://azure.microsoft.com/en-us/products/data-explorer)

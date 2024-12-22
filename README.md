@@ -17,7 +17,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
     <img src="https://img.shields.io/badge/Jon's_Website-003865?style=for-the-badge&logo=medium&logoColor=52b3d9" alt="Jonathan Behar" />
 </a> -->
 
-## [![Jon's Website](https://img.shields.io/badge/Jon's_Website-003865?style=for-the-badge&logo=medium&logoColor=52b3d9)](https://jdb443.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jbehar/) [![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/jdb443)
+## [![Jon's Website](https://img.shields.io/badge/Jon's_Website-003865?style=for-the-badge&logo=react&logoColor=52b3d9)](https://jdb443.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jbehar/) [![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/jdb443)
 
 # 💰 Funding
 

@@ -417,6 +417,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Upwork Top Rated Plus](https://img.shields.io/badge/UpWork%20Top%20Rated%20Plus-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://jdb443.github.io/#resume)
 []()
 []()
+[]()
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/)
 [![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white)](https://www.meetup.com/)
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.messenger.com/)
@@ -736,7 +737,7 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 <p align="center">
     <a href="https://github.com/jdb443">
         <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdb443&theme=react&border=52b3d9&background=0D1117" alt="Jon's GitHub streak"/> -->
-        <img src="https://nirzak-streak-stats.vercel.app?user=jdb443&theme=react&border=52b3d9&background=0D1117" alt="Jon's GitHub Contribution"/>
+        <img src="https://nirzak-streak-stats.vercel.app?user=jdb443&theme=react&border=52b3d9&background=0D1117&exclude_days=Tue" alt="Jon's GitHub Contribution"/>
     </a>
 </p>
 <p align="center">

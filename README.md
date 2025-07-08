@@ -746,6 +746,6 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
     <a href="https://github.com/jdb443"><img alt="Jon's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jdb443&langs_count=8&layout=compact&theme=react&border_color=52b3d9&bg_color=0D1117&title_color=52b3d9&icon_color=52b3d9" height="192px" width="49.5%"/></a>
     <br/>
     <p align="center">
-        <a align="center"><img alt="Jon's Github Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=jdb443&custom_title=Jon%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00a3e8&line=00a3e8&point=00a3e8&area_color=00a3e8&title_color=00a3e8&area=true" height="100%" width="100%" alt="Jon's GitHub Stats"/></a>
+        <a align="center"><img alt="Jon's Github Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=jdb443&custom_title=Jon%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00a3e8&line=00a3e8&point=00a3e8&area_color=00a3e8&title_color=00a3e8&area=true" height="150%" width="150%" alt="Jon's GitHub Stats"/></a>
     </p>
 </p>

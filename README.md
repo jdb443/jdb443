@@ -726,7 +726,6 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 [![Micro.blog](https://img.shields.io/badge/Micro.blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white)](https://micro.blog/)
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://substack.com/)
 
-![Visitor Count](https://profile-counter.glitch.me/jdb443/count.svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdb443&label=Profile%20views&color=003865&style=for-the-badge" alt="jdb443"/> </p>
 
 <br/>

@@ -732,7 +732,8 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
 <p align="center">
     <a href="https://github.com/jdb443">
         <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdb443&theme=react&border=52b3d9&background=0D1117&exclude_days=Tue" alt="Jon's GitHub streak"/> -->
-        <img src="https://nirzak-streak-stats.vercel.app?user=jdb443&theme=react&border=52b3d9&background=0D1117" alt="Jon's GitHub Contribution"/>
+        <!-- <img src="https://nirzak-streak-stats.vercel.app?user=jdb443&theme=react&border=52b3d9&background=0D1117" alt="Jon's GitHub Contribution"/> -->
+        <img src="https://streak-stats.demolab.com?user=jdb443&theme=react&background=0D1117" alt="GitHub Streak" />
     </a>
 </p>
 <p align="center">

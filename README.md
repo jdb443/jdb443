@@ -747,6 +747,6 @@ Full-Stack Software Engineer with a Computer Science, Information Systems, and F
     <br/>
     <p align="center">
         <a align="center"><img alt="Jon's Github Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=jdb443&custom_title=Jon%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00a3e8&line=00a3e8&point=00a3e8&area_color=00a3e8&title_color=00a3e8&area=true" height="175%" width="175%" alt="Jon's GitHub Stats"/></a>
-        <a align="center"><img alt="Jon's Github Stats" src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=jdb443&theme=%7B%22backgroundColor%22%3A%22%230D1117%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2361DBFB%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2361DBFB%22%2C%22streakColor%22%3A%22%2361DBFB%22%7D" height="100%" width="100%" alt="Jon's GitHub Stats Card"/></a>
+        <a align="center"><img alt="Jon's Github Stats" src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=jdb443&theme=%7B%22backgroundColor%22%3A%22%230D1117%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2361DBFB%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2361DBFB%22%2C%22streakColor%22%3A%22%2361DBFB%22%7D" alt="Jon's GitHub Stats Card"/></a>
     </p>
 </p>
